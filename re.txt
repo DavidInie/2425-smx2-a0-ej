@@ -30,5 +30,6 @@ Este texto está en *cursiva* y este también está en _cursiva_
 [Enlace a la web del cole](https://www.fje.edu/ca/fje "Texto opcional")
 
 
-![Messi](https://github.com/DavidInie/2425-smx2-a0-ej/blob/main/Messi.jpg"Titulo opcional de la igamen")
+![Messi](https://github.com/DavidInie/2425-smx2-a0-ej/blob/main/Messi.jpg "Titulo opcional de la igamen")
+
 

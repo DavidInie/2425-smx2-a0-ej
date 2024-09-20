@@ -1,3 +1,8 @@
 # 2425-smx2-a0-ej
-Primer repositorio SMX2 ejemplo de uso de la aplicación
-Primer cambio
+
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+#### H4
+##### H5
+###### H6

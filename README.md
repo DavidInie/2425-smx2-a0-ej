@@ -32,3 +32,14 @@ Este texto está en *cursiva* y este también está en _cursiva_
 
 ![Messi](https://github.com/DavidInie/2425-smx2-a0-ej/blob/main/Messi.jpg "Titulo opcional de la igamen")
 
+|Columns 1 |Columna 2 | Column3 |
+|-------------|:--------------:|--------------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$12|
+|zebra stripes |son lineas|$1|
+
+
+
+
+
+
